@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">vev</a> 👋
+Hi there, I'm <a href="https://instagram.com/9vev" target="_blank" rel="noreferrer">vev</a> 👋
 </h3>
 
 <h2 align="center">
@@ -14,18 +11,11 @@ I love the entire process of developing creative Applications. I love the challe
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Instagram SMM-Panel
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- C++ 
 
 ## 💼 Technical Skills
 
