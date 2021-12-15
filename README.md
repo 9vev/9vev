@@ -12,11 +12,6 @@ I'm a Full-Stack App Developer 💻 and Designer 🎨!
 
 I love the entire process of developing creative Applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
-
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
 ## 🔭 I'm currently working on
 
 - My old projects
