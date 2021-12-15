@@ -1,22 +1,3 @@
-
-<h3 align="center">
-Hi there, I'm <a href="https://instagram.com/9vev" target="_blank" rel="noreferrer">vev</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Full-Stack App Developer 💻 and Designer 🎨!
-</h2> 
-
-I love the entire process of developing creative Applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
-## 🔭 I'm currently working on
-
-- Instagram SMM-Panel
-
-## 🌱 I'm currently learning
-
-- C++ 
-
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
